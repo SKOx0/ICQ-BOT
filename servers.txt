@@ -1,0 +1,8 @@
+    ssl
+    host: 'slogin.icq.com',
+    port: '5190'
+    443
+
+    no ssl
+    login.icq.com
+    444
